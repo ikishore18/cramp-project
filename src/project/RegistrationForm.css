@@ -1,0 +1,35 @@
+h2{
+    text-align: center;
+    padding: 20px;
+    color: grey;
+}
+#form{
+    text-align: center;
+}
+#form input{
+    border: none;
+    background: transparent;
+    color: white;
+    border-bottom: 2px solid wheat;
+    width: 300px;
+    height: 30px;
+
+}
+#register button{
+    border: 40px;
+    width: 100px;
+    padding: 10px 20px;
+    color: wheat;
+    background-color: blue;
+}
+.register{
+    background-image: url("https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    height: 500px;
+}
+form p{
+    color: white;
+    font-size: 10px;
+}
+#one{
+    text-align: center;
+}

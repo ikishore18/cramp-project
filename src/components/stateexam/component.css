@@ -1,0 +1,28 @@
+#contop{
+    display: flex;
+    flex-grow: 100;
+    
+}
+
+#contop{
+    background-color: aqua;
+}
+#Note{
+    text-align: center;
+    flex-grow: 1;
+
+}
+#bot1{
+    background-color: red;
+    grid-row: auto;
+}
+#pics{
+    background-color: chocolate;
+}
+#course{
+    background-color: crimson;
+}
+#down{
+    background-color: darkolivegreen;
+    text-align: center;
+}
